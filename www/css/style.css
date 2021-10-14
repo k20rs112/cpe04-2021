@@ -2,7 +2,13 @@
 
 
   body{
-background-color: skyblue
+background-color: skyblue;
+  }
+
+  button{
+color: blue;
+
+
   }
 
     #minuteStr {
