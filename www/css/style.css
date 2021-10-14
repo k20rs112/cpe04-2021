@@ -8,7 +8,7 @@ background-color: skyblue;
   button{
 color: blue;
 font-family: Times;
-
+border-radius: 20px;
   }
 
     #minuteStr {
