@@ -17,6 +17,12 @@ color: green;
 font-weight: bold;
 }
 
+#btnD{
+background-color: rgb(238, 68, 68);
+color: white;
+font-weight: bold;
+}
+
 #time{
 box-shadow: 5px 5px 5px;
 width: 50%;
@@ -74,7 +80,7 @@ margin: 0 auto;
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
 
